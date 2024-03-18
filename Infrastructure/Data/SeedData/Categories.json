@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Fast Food",
+    "ImageUrl": "FastFood.png"
+  },
+  {
+    "Name": "Rice",
+    "ImageUrl": "Rice.png"
+  },
+  {
+    "Name": "Snacks",
+    "ImageUrl": "Snacks.png"
+  },
+  {
+    "Name": "Sides",
+    "ImageUrl": "Sides.png"
+  }
+]
